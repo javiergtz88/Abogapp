@@ -1,0 +1,142 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!-- Llamado del estilo del DrawerMenu-->
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+
+    </style>
+
+    <style name="mySpinnerItemStyle" parent="Base.Widget.AppCompat.Spinner">
+        <item name="android:textColor">@color/my_spinner_text_color</item>
+    </style>
+
+    <style name="TextColor">
+        <item name="android:textColor">#121F98</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+
+    <!-- **************************************** Estilos de los TextViews *******************************************-->
+
+
+
+
+    <!-- Estilos para RegisterView-->
+    <style name="ResgisterViewfont">
+
+        <item name="android:fontFamily">sans-family-light</item>
+        <item name="android:textSize">15sp</item>
+
+    </style>
+
+    <!-- Estilos para Loginview-->
+    <style name="LoginViewfont">
+
+        <item name="android:fontFamily">sans-family-light</item>
+        <item name="android:textSize">15sp</item>
+
+    </style>
+
+
+    <!-- Estilos para el menu y DrawerMenu-->
+    <style name="MenuFont">
+
+        <item name="android:textSize">28sp</item>
+        <item name="android:fontFamily">sans-family-light</item>
+    </style>
+
+    <style name="MenuUserFont">
+
+        <item name="android:textSize">8sp</item>
+        <item name="android:fontFamily">sans-family-light</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="NavbarFont">
+
+        <item name="android:textSize">25sp</item>
+        <item name="android:fontFamily">sans-family-light</item>
+    </style>
+
+    <!-- Estilos para la ventana de Preguntas -->
+    <style name="ChatUserFont">
+
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-family-light</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ChatDateFont">
+
+        <item name="android:textSize">10sp</item>
+        <item name="android:fontFamily">sans-family-light</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+    <style name="ChatTextFont">
+
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">sans-family-light</item>
+    </style>
+        <!-- Estilos para la ventana de Scnearios -->
+
+    <style name="ScenarioFont">
+
+        <item name="android:textSize">15sp</item>
+        <item name="android:fontFamily">sans-family-light</item>
+    </style>
+
+
+    <style name="GeneralFont">
+
+        <item name="android:fontFamily">sans-family-light</item>
+
+    </style>
+
+    <style name="GeneralFont.grande">
+        <item name="android:textSize">5sp</item>
+    </style>
+
+    <style name="GeneralFont.chica">
+        <item name="android:textSize">5sp</item>
+    </style>
+
+    <!-- Estilo para MessageForm de chatView-->
+    <style name="MessageFormStyle">
+        <item name="android:textSize">20sp</item>
+
+
+    </style>
+    
+    <!-- Estilo para PremiumView -->
+    <style name="PremiumviewStyle">
+        
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold|normal</item>
+        
+    </style>
+
+
+    <!-- Estilo para cambiar el color del ícono del comportamiento del Menú (DrawerMenu)-->
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/white</item>
+    </style>
+
+
+
+
+
+    <style name="Base.Widget.AppCompat.DrawerArrowToggle" parent="">
+        <item name="color">?android:attr/textColorSecondary</item>
+        <item name="thickness">2dp</item>
+        <item name="barSize">18dp</item>
+        <item name="gapBetweenBars">3dp</item>
+        <item name="topBottomBarArrowSize">11.31dp</item>
+        <item name="middleBarArrowSize">16dp</item>
+        <item name="drawableSize">24dp</item>
+        <item name="spinBars">true</item>
+    </style>
+
+</resources>

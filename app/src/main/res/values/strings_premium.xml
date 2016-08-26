@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="get_premium_button">¡Consigue Premium!</string>
+    <string name="get_credits">Abonar a la cuenta</string>
+    <string name="premium_description">Al ser usuario Premium, ¡tienes muchas mas funcionalidades de tu aplicación!.</string>
+    <string name="credits_description">De acuerdo a la remuneración económica, el usuario se hará acreedor a determinado numero de créditos que serán utilizados para elegir el tiempo de respuesta que tendrá su consulta legal, pudiendo variar desde las 48 hrs para las opciones más económicas y poco urgentes, hasta las 3 hrs para asuntos de extrema urgencia. </string>
+    <string name="premium_membership_type_default">Cargando&#8230;</string>
+    <string name="premium_expire_date_default">Cargando&#8230;</string>
+    <string name="premium_credits_left_default">Cargando&#8230;</string>
+    <string-array name="premium_card_type" >
+        <item>visa</item>
+        <item>mastercard</item>
+    </string-array>
+    <string-array name="year_moths" >
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="card_years">
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+        <item>2028</item>
+        <item>2029</item>
+        <item>2030</item>
+        <item>2031</item>
+        <item>2032</item>
+        <item>2033</item>
+        <item>2034</item>
+        <item>2035</item>
+        <item>2036</item>
+        <item>2037</item>
+        <item>2038</item>
+        <item>2039</item>
+        <item>2040</item>
+
+    </string-array>
+</resources>

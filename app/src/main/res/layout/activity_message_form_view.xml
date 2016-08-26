@@ -1,0 +1,131 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:paddingLeft="8dip"
+    android:paddingRight="8dip"
+    tools:context="mx.appco.appbogado.MessageFormView"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp">
+
+        <TextView  style="@style/MessageFormStyle"
+            android:text="@string/creditsText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/creditosTv"
+            android:layout_gravity="center_vertical" />
+
+        <TextView
+            android:text="@string/premium_credits_left_default"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+
+            android:id="@+id/chatCreditsTextView"
+            android:layout_gravity="center_vertical"
+            android:gravity="clip_vertical|right" />
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp">
+
+    <TextView style="@style/MessageFormStyle"
+        android:text="@string/spinnerPrioridad"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/prioridadTv"
+        android:layout_gravity="center_vertical" />
+
+    <Spinner  style="@android:style/Widget.Holo.Light.Spinner"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="right"
+        android:id="@+id/chatCreditsSpinner"
+        android:textColor="#000000"
+        android:spinnerMode="dialog"
+        android:layout_gravity="center_vertical" />
+        </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:background="#DADADA" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp">
+
+    <TextView style="@style/MessageFormStyle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="left"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/spinnerCategoria"
+        android:id="@+id/categoriaTv"
+        android:layout_gravity="center_vertical" />
+
+    <Spinner  style="@android:style/Widget.Holo.Light.Spinner"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:id="@+id/chatCategoriesSpinner"
+        android:textColor="#000000"
+        android:textColorHint="#000000"
+        android:spinnerMode="dialog"
+        android:dropDownSelector="@drawable/abc_ic_menu_moreoverflow_mtrl_alpha"
+        android:layout_gravity="center_vertical" />
+        </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1200"
+        android:id="@+id/caracteres"
+        android:layout_gravity="right" />
+
+    <EditText
+        android:id="@+id/chatFMsgTextView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="top"
+        android:hint="Escribe tu pregunta . . ."
+        android:textColorHint="#FFFFFF"
+        android:background="@drawable/blue_panel"
+        android:textColor="#FFFFFF"
+        android:layout_weight="1"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:padding="5dp" />
+
+    <Button
+        android:id="@+id/chatSendButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

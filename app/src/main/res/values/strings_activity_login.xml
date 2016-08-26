@@ -1,0 +1,23 @@
+<resources>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión</string>
+    <string name="action_sign_in_short">Registrarse</string>
+
+    <string name="error_invalid_name">la dirección no es válida</string>
+    <string name="error_invalid_email">El email es incorrecto (ejemplo@ejemplo.com)</string>
+    <string name="error_invalid_password">La contraseña debe contener al menos 8 caracteres</string>
+    <string name="error_incorrect_password">la contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+
+
+    <!-- Strings related to Payment -->
+    <string name="error_field_name_payment">Escriba el nombre</string>
+    <string name="error_field_address_payment">Escriba su dirección</string>
+    <string name="error_field_number_payment">Escriba el número de la tarjeta</string>
+    <string name="error_field_Secnumber_payment">Escriba el número de seguridad</string>
+    <string name="error_field_required_payment">Este campo es requerido</string>
+</resources>

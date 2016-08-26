@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppBogado</string>
+
+    <string-array name="title_sections">
+        <item>Inicio</item>
+        <item>Preguntas</item>
+        <item>Premium</item>
+        <item>Acerca de</item>
+        <item>Salir</item>
+    </string-array>
+    <string name="facebook_app_id">1115943188430947</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">AppBogado</string>
+    <string name="title_activity_register_view">RegisterView</string>
+    <string name="title_activity_presentation_view">PresentationView</string>
+    <string name="title_activity_search_subview">SearchSubview</string>
+    <string name="title_activity_chat_view">chatView</string>
+    <string name="title_activity_doc_legal_view">DocLegalView</string>
+    <string name="title_activity_mi_pay_view">MiPayView</string>
+    <string name="title_activity_premium_view">PremiumView</string>
+    <string name="title_activity_payment_view">PaymentView</string>
+
+    <string name="action_register">Registrarse</string>
+    <string name="action_facebook">Facebook</string>
+    <string name="action_send">send</string>
+    <string name="prompt_nombre">Nombre</string>
+    <string name="prompt_apellido">Apellido</string>
+    <string name="prompt_direccion">Dirección</string>
+    <string name="prompt_name">name</string>
+    <string name="prompt_ciudad">Ciudad</string>
+    <string name="prompt_estado">Estado</string>
+    <string name="error_invalid_field">Correo inválido (ejemplo@ejemplo.com)</string>
+
+    <string-array name="colores">
+        <item>Amarillo</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+    </string-array>
+
+    <string-array name="estados_mexico_array">
+        <item>Aguascalientes</item>
+        <item>Baja California</item>
+        <item>Baja California Sur</item>
+        <item>Campeche</item>
+        <item>Chiapas</item>
+        <item>Chihuahua</item>
+        <item>Coahuila</item>
+        <item>Colima</item>
+        <item>Distrito Federal</item>
+        <item>Durango</item>
+        <item>Estado de México</item>
+        <item>Guanajuato</item>
+        <item>Guerrero</item>
+        <item>Hidalgo</item>
+        <item>Jalisco</item>
+        <item>Michoacán</item>
+        <item>Morelos</item>
+        <item>Nayarit</item>
+        <item>Nuevo León</item>
+        <item>Oaxaca</item>
+        <item>Puebla</item>
+        <item>Querétaro</item>
+        <item>Quintana Roo</item>
+        <item>San Luis Potosí</item>
+        <item>Sinaloa</item>
+        <item>Sonora</item>
+        <item>Tabasco</item>
+        <item>Tamaulipas</item>
+        <item>Tlaxcala</item>
+        <item>Veracrúz</item>
+        <item>Yucatán</item>
+        <item>Zacatecas</item>
+    </string-array>
+
+    <!-- AdMob data - this is a test add -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_log_chat</item>
+        <item>@drawable/ic_log_chat</item>
+        <item>@drawable/ic_log_chat</item>
+        <item>@drawable/ic_log_chat</item>
+    </array>
+    <string name="title_activity_message_form_view">MessageFormView</string>
+        <!-- Textos de MessageForm-->
+
+    <string name="creditsText">Créditos</string>
+    <string name="spinnerPrioridad">Prioridad</string>
+    <string name="spinnerCategoria">Categoría</string>
+
+    <!-- Textos de About y Aviso de Privacidad-->
+
+    <string name="Acerca"> Acerca de AppBogado</string>
+    <string name="AcercaText"> <![CDATA[<html><HEAD><meta name="tipo_contenido"  content="text/html;" http-equiv="content-type" charset="utf-8">
+</HEAD><body style="text-align:justify><b><h1>Acerca de AppBogado</h1></b> Las tecnologías de la información están cambiando la noción y concepción que
+tenemos del mundo, ante estos tiempos de cambio intenso, el campo legal se ha
+quedado rezagado en la oleada de cambios que estamos experimentando, cuando las aplicaciones en los smartphones nos han permitido acceder a choferes privados, hospedaje de bajo precio, comunicación internacional gratuita y demás avances importantes, los servicios legales tradicionales siguen un modelo poco práctico que se vuelve cada vez menos accesible para las personas.
+Pensando en lo anterior, un grupo colegiado de abogados, con más de 200 años de experiencia en conjunto, hemos decidido revolucionar la practica legal y acercar las asesorías legales a través de la informática, AppBogado, te permite tener “On Demand” asesoría legal personalizada, con la confianza, seguridad, honestidad y transparencia que un modelo digital ofrece.
+Cuando es difícil checar la reputación de un abogado tradicional, AppBogado es transparente con los reviews de personas y con sus asesorías, estamos obligados a dar el mejor servicio posible so pena de no ser recomendados y fenecer en el intento.
+
+        <b><h1>Disclaimer</h1></b>
+
+
+ El derecho siempre esta sujeto a interpretación por lo que las opiniones emitidas a través de “AppBogado” tienen una fuerte carga subjetiva de apreciación por parte de nuestros expertos legales y si bien esta apreciación siempre será lo más apegada a la realidad, puede o no coincidir con los criterios judiciales, pues los jueces en nuestro país no siempre se rigen por principios estrictos y pudieran variar sus interpretaciones dependiendo de factores externos.
+
+
+
+<b><h1>Aviso de Privacidad</h1></b></br>
+
+QUIÉNES SOMOS
+
+EVP Negocios S.A. de C.V. es responsable del tratamiento de sus datos personales, con domicilio en Avenida Empresarios #135, Col. Puerta de Hierro, Zapopan, Jalisco. C.P. 45116, Pisos 7 y 8.
+
+PARA QUÉ RECABAMOS Y UTILIZAMOS SUS DATOS
+
+Los datos que le solicitamos serán utilizados para las siguientes finalidades:
+
+Contactarlo respecto de cualquier asunto que se plantee a través de nuestras manifestaciones electrónicas.
+Cualquier otro fin relacionado con el desarrollo de la empresa.
+
+MAS INFORMACION
+
+Si requiere mayor información puede acceder a nuestro aviso de privacidad completo a través de nuestras oficinas físicas.</body></html>
+]]>
+
+</string>
+    <string name="detail_preguntas_btn">Preguntas</string>
+    <string name="preference_file_key">mx.appco.appbogado.PREFERENCE_FILE_KEY</string>
+
+</resources>
+
+
+

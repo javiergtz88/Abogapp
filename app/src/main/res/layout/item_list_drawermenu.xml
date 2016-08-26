@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/imageView"
+    android:paddingTop="12dip"
+    android:paddingBottom="12dip"
+    android:orientation="horizontal"
+    android:gravity="left"
+    android:focusable="false"
+    android:focusableInTouchMode="false">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="22dip"
+        android:layout_height="22dip"
+
+        android:src="@drawable/ic_logohome"
+        android:scaleType="fitCenter"
+        android:layout_gravity="center_vertical">
+    </ImageView>
+
+    <TextView style="@style/MenuFont"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Menu"
+        android:textColor="#2c2c2c"
+        android:id="@+id/menuitem"
+        android:paddingLeft="16dip"
+        android:textSize="16sp"
+        android:layout_gravity="center_vertical"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Menu" />
+
+
+</LinearLayout>

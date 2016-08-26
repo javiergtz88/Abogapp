@@ -1,0 +1,66 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="20"
+        android:paddingLeft="8dip"
+        android:paddingRight="8dip">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="48dp"
+            android:minHeight="30dp"
+            android:background="@drawable/blue_panel"
+            android:gravity="center_vertical"
+            android:layout_marginTop="16dip"
+            android:layout_marginBottom="16dip">
+
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/mainBuscarTextField"
+                android:hint="Buscar"
+                android:textColorHint="#FFFFFF"
+                android:textColor="#FFFFFF"
+                android:layout_weight="80"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp" />
+
+            <ImageButton
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/mainSearchButton"
+                android:layout_weight="20"
+                android:src="@drawable/abc_ic_search_api_mtrl_alpha"
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:background="@null"
+                android:backgroundTint="#ffffff" />
+
+        </LinearLayout>
+
+        <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/mainScenariosListView"
+        android:choiceMode="singleChoice"
+            android:dividerHeight="8dip"
+            android:divider="@android:color/transparent"
+            android:layout_weight="1"
+            android:layout_marginBottom="16dip"
+            android:transcriptMode="disabled" />
+
+    </LinearLayout>
+
+</FrameLayout>
+
+

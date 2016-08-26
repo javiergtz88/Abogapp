@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="error_codes">
+        <item>1:Falla en el servidor desconocida</item>
+        <item>102:Autenticación inválida</item>
+        <item>210:Error al registrar en el servidor</item>
+        <item>303:No hay suficientes creditos</item>
+        <item>505:El pago fue rechazado, revise sus datos</item>
+        <item>2:Falla interna desconocida</item>
+        <item>510:El pago no se pudo completar. intentelo mas tarde.</item>
+    </array>
+
+</resources>

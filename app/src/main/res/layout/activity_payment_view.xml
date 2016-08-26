@@ -1,0 +1,175 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:background="@drawable/ic_background"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="mx.appco.appbogado.PaymentView">
+
+<FrameLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView android:id="@+id/login_form" android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout android:id="@+id/email_login_form" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:orientation="vertical"
+            android:weightSum="1">
+
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/paymentCardTypeSpinner"
+                android:spinnerMode="dialog" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="3dp"
+                android:background="@android:color/darker_gray"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_gravity="center_vertical" />
+
+
+
+            <EditText
+                android:id="@+id/paymentCardNumberEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Número de la tarjeta"
+                android:digits="0123456789 "
+                android:background="@drawable/blue_panel"
+                android:textColorHint="#FFFFFF"
+                android:imeActionId="@+id/number"
+                android:imeActionLabel="action_input_Num"
+                android:imeOptions="actionUnspecified"
+                android:inputType="number"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:layout_marginTop="2dp"
+                android:padding="5dp"
+                android:maxLength="19" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="3dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@android:color/darker_gray"
+                android:layout_gravity="center_vertical" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+                <Spinner
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/paymentDateMonthSpinner"
+                    android:textColor="#FFFFFF"
+                    android:layout_weight="50"
+                    android:spinnerMode="dialog"
+                    android:layout_marginTop="2dp" />
+
+                <Spinner
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:id="@+id/paymentDateYearSpinner"
+                    android:layout_weight="50"
+                    android:spinnerMode="dialog" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="3dp"
+                android:background="@android:color/darker_gray"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"/>
+
+            <EditText android:id="@+id/paymentSecNumberEditText" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="Numero de seguridad"
+                android:imeActionId="@+id/security"
+                android:textColorHint="#FFFFFF"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:background="@drawable/blue_panel"
+                android:imeActionLabel="action_input_secNum"
+                android:imeOptions="actionUnspecified" android:inputType="number"
+                android:maxLines="1" android:singleLine="true"
+                android:layout_marginTop="2dp"
+                android:padding="5dp"
+                android:maxLength="3" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="3dp"
+                android:background="@android:color/darker_gray"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_gravity="center_vertical" />
+
+            <EditText android:id="@+id/paymentNameEditText" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="Nombre del titular"
+                android:imeActionId="@+id/principalName"
+                android:background="@drawable/blue_panel"
+                android:textColorHint="#FFFFFF"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ "
+                android:imeActionLabel="action_input_name"
+                android:imeOptions="actionUnspecified" android:inputType="textPersonName"
+                android:maxLines="1" android:singleLine="true"
+                android:layout_marginTop="2dp"
+                android:padding="5dp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="3dp"
+                android:background="@android:color/darker_gray"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPostalAddress"
+                android:background="@drawable/blue_panel"
+                android:hint="Teléfono"
+                android:textColorHint="#FFFFFF"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:ems="10"
+                android:digits="0123456789-"
+                android:id="@+id/paymentLastNameEditText"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:padding="5dp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="3dp"
+                android:background="@android:color/darker_gray"/>
+
+            <Button android:id="@+id/acceptData_button" style="?android:textAppearanceSmall"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="16dp" android:text="Pagar"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                android:background="@drawable/blue_panel"
+                android:drawableRight="@drawable/ic_paymentpay"
+
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>
+</LinearLayout>

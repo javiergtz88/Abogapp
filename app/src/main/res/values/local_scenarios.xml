@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titulos">
+        <item>¿Qué hacer si te quieren embargar o un funcionario judicial toca tu puerta?</item>
+        <item> ¿Qué hacer si me llega una escrito de la Secretaría de Hacienda (SAT)?.</item>
+        <item> ¿Qué hacer si tu inquilino no quiere dejar la casa que le rentas?</item>
+        <item> ¿Qué hacer en caso de un retén oficial?</item>
+        <item> ¿Cómo hacer un recibo de dinero válido?</item>
+        <item> ¿Cómo hacer un pagaré de forma manual?</item>
+    </string-array>
+
+    <string-array name="scenarios_detail">
+<item>
+    <![CDATA[<html>
+    <body style="text-align:justify>
+
+    <h1>&iquestQu&eacute hacer si te quieren embargar o un funcionario judicial toca tu puerta?</h1>
+    <p>En primer lugar, deber&aacutes de verificar que efectivamente sea un funcionario judicial
+    debidamente acreditado, si viene en compa&ntilde;&iacutea de otras personas y estas tratan de
+    intimidarte no lo permitas, por lo regular si hablan mucho tratan de tapar el hecho de que no
+    tienen derecho a molestarte.</p>
+
+    <p><b>Una vez que corrobores esta informaci&oacuten tienes dos opciones.</b>
+
+    <ul>
+    <li>Si es funcionario judicial recibe los documentos que te esta entregando, pero de
+    preferencia no des tu identificaci&oacuten oficial, hasta que puedas consultar de que se
+    trata.</li><br/>
+    <li>Si *NO* se trata de un funcionario acreditado, puedes en ese momento cerrar la puerta y
+    dejar de hacerle caso.</li>
+    </ul>
+
+    </body>
+    </html>
+    ]]>
+</item>
+
+<item>
+    <![CDATA[<html>
+    <body style="text-align:justify>
+
+    <h1>&iquestQu&eacute hacer si me llega una escrito de la Secretar&iacutea de Hacienda (SAT)?</h1>
+
+    <p>La Secretar&iacutea de Hacienda a trav&eacutes del SAT ha encontrado que mandar avisos es
+    una manera muy efectiva de recuperar los impuestos que se le deben, no debes alarmarte pues lo
+    más seguro es que se trate &uacutenicamente de una invitaci&oacuten de cumplimiento.
+    </p>
+
+    <p><b>Para saber de que papel se trata, debes de buscar los siguientes puntos:</b></p>
+
+    <ul>
+    <li>Si el documento indica que el SAT no tiene registradas tus declaraciones es s&oacutelo un
+    aviso.</li><br/>
+    <li>Si &uacutenicamente se&ntildeala un periodo de algunos meses, pero no un monto
+    econ&oacutemico, es un aviso.</li> <br/>
+    <li>Si el documento lleg&oacute por correo electr&oacutenico o por mensajer&iacutea, solo se
+    trata de un aviso.</li> <br/>
+    <li>Por el contrario, si el documento lo hizo llegar un notificador acreditado, o si este ha
+    llegado acompañado de m&aacutes personas con el fin de realizar una revisi&oacuten de tus
+    documentos, es momento de contactar a tu contador y abogado, o de comprar tu suscripci&oacuten
+    Premium.</li> <br/>
+    </ul>
+
+    </body>
+    </html>
+]]>
+</item>
+
+<item>
+    <![CDATA[<html>
+    <body style="text-align:justify>
+
+    <h1> &iquestQu&eacute hacer si tu inquilino no quiere dejar la casa que le rentas?</h1>
+
+    <p>Arrendar un inmueble es una manera sencilla de generar ingresos, adem&aacutes de ser una
+    inversi&oacuten de bajo riesgo es muy sencilla de operar, sin embargo siempre se dan los casos
+    de excepci&oacuten pero si ha terminado el contrato de tu inquilino o si deseas dar por
+    terminado el contrato previo a la fecha de vencimiento debes tomar las siguientes precauciones:
+    </p>
+
+    <ul>
+    <li>
+    <p><b>Si el contrato ha terminado:</b>
+    <p>Debes notificar a quien le rentas que es tu deseo no continuar con el contrato y que
+    deber&aacute entregarte la casa en un plazo razonable 15 a 30 d&iacuteas, en caso de que aún
+    as&iacute se reh&uacutese a salir del inmueble, deberás entablar una demanda judicial para
+    expulsarlo del domicilio.
+    </p>
+
+    <li>
+    <p><b>Si el contrato no ha terminado:</b>
+
+    <p>Si el contrato no ha terminado y en el no te guardaste el derecho de dar por terminado el
+    arrendamiento anticipadamente, deber&aacutes esperar el plazo pactado, pero si en efecto tu
+    contrato te da el derecho de terminar el arrendamiento por anticipado deber&aacutes notificar
+    a la persona que le rentas con los d&iacuteas de anticipaci&oacuten que señale tu contrato, de
+    preferencia con la presencia de un notario que da fe p&uacuteblica del aviso, si no tienes
+    recursos para el notario puedes tratar con dos testigos pero no tendr&aacute la misma fuerza
+    legal, una vez pasado el plazo si no ha desocupado el inmueble deber&aacutes interponer una
+    demanda en su contra para poder sacarlo.
+    </p>
+
+    </body>
+    </html>
+]]>
+</item>
+
+ <item>
+    <![CDATA[
+    <html>
+    <body style="text-align:justify>
+
+    <h1> &iquestQu&eacute hacer en caso de un ret&eacuten oficial?</h1>
+
+    <p>Si bien la constituci&oacuten nos da el derecho a la privacidad y a no ser molestado sin un
+    mandamiento escrito, en la realidad es sumamente dif&iacutecil que un polic&iacutea o militar
+    te comprenda y tome por bueno tu alegato de legalidad, adem&aacutes que en teor&iacutea ellos
+    también act&uacutean conforme a la ley y su facultad de investigaci&oacuten, por lo que puedes
+    optar por alguna de las dos opciones que te presentamos a continuaci&oacuten, en cualquiera de
+    los casos sin ning&uacuten problema puedes grabar el desarrollo de la situaci&oacuten, no
+    existe ley alguna que te prohíba hacerlo, siempre y cuando no obstruyas su camino o sus
+    actividades.
+    </p>
+
+    <ul>
+    <li>Si consideras que tu veh&iacuteculo no es sospechoso, que tu en lo personal no aparentas
+    nada negativo y no estas infringiendo ninguna ley al traer el veh&iacuteculo en mal estado,
+    chocado o con los cristales rotos, puedes resistirte a la investigaci&oacuten alegando tu
+    leg&iacutetimo derecho a la privacidad pidi&eacutendole siempre de manera amable que te muestre
+    el mandamiento judicial por el cual desea revisar tu veh&iacuteculo, quedar&iacutea a criterio
+    del elemento de seguridad si te hace m&aacutes preguntas, te detiene para revisar tus placas y
+    serie del veh&iacuteculo y tanta forma en que pueda detenerte y obligarte a bajar del
+    veh&iacuteculo, de nuevo si no tienes nada que esconder, resistirse mucho pudiera indicar justo
+    lo contrario.</li><br/>
+
+    <li>Contrario al punto anterior, si estas incumpliendo alguna ley vial o si tu carro esta
+    polarizado tu mejor opci&oacuten ser&iacutea permitir la revisi&oacuten r&aacutepida de tu
+    veh&iacuteculo, para evitarte mayores problemas, pues alegar tu leg&iacutetimo derecho cuando
+    si estas infringiendo otras leyes podr&iacutea traerte consecuencias desagradables.
+    </li> <br/>
+    </ul>
+
+    <p><b>
+    En ambas situaciones, recuerda estar calmado, responder con confianza y tranquilidad las
+    preguntas, procura no mostrarte nervioso ante la autoridad pues esto pudiera indicarles que
+    estas ocultando algo il&iacutecito en tu vehíulo.
+    </b></p>
+
+
+</li>
+</ul>
+
+</body></html>
+]]>
+</item>
+
+<item>
+    <![CDATA[
+    <html>
+    <body style="text-align:justify>
+
+    <h1>&iquest;C&oacutemo hacer un recibo de dinero v&aacutelido?</h1>
+
+    <p>Cada que recibimos un pago o en general una cantidad de efectivo, es bueno
+    hacer un recibo para que quede una huella de la transacci&oacuten, no siempre
+    tenemos a la mano un recibo de papeler&iacutea o impreso de internet por lo que
+    aqu&iacute te detallamos la informaci&oacute;n que deber&aacutes incluir para que este tenga
+    completa validez y fuerza jur&iacutedica.
+     </p>
+
+    <ul>
+    <li>Nombre de quien entrega y de quien recibe.</li><br/>
+    <li>Lugar y fecha donde se dio la entrega.</li><br/>
+    <li>Monto exacto que se entreg&oacute, de preferencia escribir la cantidad con n&uacutemero y
+    despu&eacutes con letra.</li><br/>
+    <li>Si estas recibiendo un cheque deber&iacuteas también anotar el n&uacutemero de cheque, el
+    n&uacutemero de cuenta el banco y en general todo dato que pueda ayudar a identificar el
+    documento en lo específico.</li><br/>
+    <li>Concepto por el cual se esta recibiendo el dinero.</li><br/>
+    <li>Firma de conformidad ambas partes.</li><br/>
+    <li>No es indispensable, pero si puedes anexar una copia de la identificaci&oacuten
+    con fotograf&iacutea de quien te entreg&oacute el dinero ser&iacutea mejor.
+    </li><br/>
+    </ul>
+
+    </body>
+    </html>
+]]>
+</item>
+
+
+<item>
+    <![CDATA[
+    <html>
+    <body style="text-align:justify>
+
+    <h1>&iquest;C&oacutemo hacer un pagar&eacute de forma manual?</h1>
+
+    <p>No siempre tenemos una papeler&iacutea a la mano, pero cuando prestamos dinero es
+    indispensable que la persona que recibir&aacute el dinero firme un documento llamado
+    pagar&eacute para poder exigir el monto despu&eacutes.
+    </p>
+
+     <p>Lo recomendable es llevar uno impreso, pero si no tienes a la mano uno
+    basta que en una hoja en blanco pongas los siguientes requisitos que la ley
+    marca como indispensables en un pagar&eacute:
+    </p>
+
+    <ul>
+    <li>I.- La menci&oacuten de ser pagar&eacute, inserta en el texto del documento; ( Escribir que
+    se trata de un pagar&eacute)</li><br/>
+    <li>II.- La promesa incondicional de pagar una suma determinada de dinero.</li> <br/>
+    <li>III.- El nombre de la persona a quien ha de hacerse el pago.</li> <br/>
+    <li>IV.- La fecha y el lugar en que deber&aacute realizarse el pago.</li> <br/>
+    <li>V.- La fecha y el lugar en que se subscribe el documento.</li> <br/>
+    <li>VI.- La firma del deudor o de la persona que firme a su ruego o en su nombre.</li> <br/>
+    </ul>
+
+    <br/>
+    <p>Aqu&iacute un ejemplo:</p>
+
+    <p>
+    DEBO Y PAGAR&Eacute; INCONDICIONALMENTE POR ESTE PAGAR&Eacute; A LA ORDEN DE &#95;&#95;&#95;(nombre a
+    quien ha de pagarse)&#95;&#95;&#95;&#95;, EN &#95;&#95;&#95;&#95;&#95;(lugar de pago)&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;, EL D&IacuteA
+    &#95;&#95;&#95;&#95;&#95;&#95;(fecha de pago)&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95; , LA CANTIDAD DE $&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;(_con
+    letra&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;M.N.), VALOR RECIBIDO A MI ENTERA
+    SATISFACCI&OacuteN. ESTE PAGAR&Eacute CAUSAR&Aacute INTERESES A RAZ&OacuteN DEL &#95;&#95;&#95;&#95;&#95; MENSUAL DESDE
+    LA FECHA DE VENCIMIENTO HASTA SU TOTAL LIQUIDACI&OacuteN, PAGADERO CONJUNTAMENTE
+    CON EL PRINCIPAL.
+    </p>
+
+    </body>
+    </html>
+]]>
+</item>
+    </string-array>
+
+
+
+</resources>
