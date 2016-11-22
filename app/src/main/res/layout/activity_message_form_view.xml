@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="fill_parent"
     android:layout_height="fill_parent" android:paddingLeft="8dip"
     android:paddingRight="8dip"
-    tools:context="mx.appco.appbogado.MessageFormView"
+    tools:context="mx.evp.abogapp.MessageFormView"
     android:orientation="vertical">
 
     <LinearLayout

@@ -1,10 +1,9 @@
 package Presenters;
 
 import android.os.AsyncTask;
-import android.util.Log;
 
-import mx.appco.appbogado.ChatView;
-import mx.appco.appbogado.MessageFormView;
+import mx.evp.abogapp.ChatView;
+import mx.evp.abogapp.MessageFormView;
 
 import java.util.ArrayList;
 import java.util.HashMap;

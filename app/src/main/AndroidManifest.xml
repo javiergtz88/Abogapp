@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="mx.appco.appbogado">
+    package="mx.evp.abogapp">
 
     <!-- To auto-complete the email text field in the login form with the user's emails -->
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
@@ -11,22 +11,22 @@
 
 
     <application
-        android:name="mx.appco.appbogado.AppLeyesApplication"
+        android:name="mx.evp.abogapp.AppLeyesApplication"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_appbogado_launcher"
+        android:icon="@mipmap/ic_launcher_abogapp"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
 
         <!-- "stateHidden" permite ocultar el teclado virtual hasta que el usuario clickee sobre un EditText -->
         <activity
-            android:name="mx.appco.appbogado.MainScreenView"
+            android:name="mx.evp.abogapp.MainScreenView"
             android:label="@string/app_name"
              >
         </activity>
         <!-- "stateHidden" permite ocultar el teclado virtual hasta que el usuario clickee sobre un EditText -->
         <activity
-            android:name="mx.appco.appbogado.LoginView"
+            android:name="mx.evp.abogapp.LoginView"
             android:label="@string/title_activity_login"
             android:windowSoftInputMode="stateHidden" >
 
@@ -38,7 +38,7 @@
             android:theme="@android:style/Theme.Translucent.NoTitleBar"
             android:label="@string/app_name" />
         <activity
-            android:name="mx.appco.appbogado.SplashScreenActivity"
+            android:name="mx.evp.abogapp.SplashScreenActivity"
             android:label="@string/title_activity_splash_screen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -47,25 +47,25 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="mx.appco.appbogado.RegisterView"
+            android:name="mx.evp.abogapp.RegisterView"
             android:label="@string/title_activity_register_view" >
         </activity>
         <activity
-            android:name="mx.appco.appbogado.PresentationView"
+            android:name="mx.evp.abogapp.PresentationView"
             android:label="@string/title_activity_presentation_view"
            >
         </activity>
         <activity
-            android:name="mx.appco.appbogado.SearchSubview"
+            android:name="mx.evp.abogapp.SearchSubview"
             android:label="@string/title_activity_search_subview"
             android:windowSoftInputMode="stateHidden" >
         </activity>
         <activity
-            android:name="mx.appco.appbogado.PaymentView"
+            android:name="mx.evp.abogapp.PaymentView"
             android:label="@string/title_activity_payment_view" >
         </activity>
         <activity
-            android:name="mx.appco.appbogado.MessageFormView"
+            android:name="mx.evp.abogapp.MessageFormView"
             android:label="@string/title_activity_message_form_view"
             android:screenOrientation="portrait">
         </activity>

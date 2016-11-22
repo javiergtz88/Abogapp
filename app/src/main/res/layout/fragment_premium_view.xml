@@ -48,7 +48,8 @@
 
         /*
 
-        <mx.appco.appbogado.JustifyTextView style="@style/TextColor"
+        <mx.evp.abogapp.JustifyTextView
+            style="@style/TextColor"
             android:layout_width="331dp"
             android:layout_height="wrap_content"
             android:text="@string/credits_description"

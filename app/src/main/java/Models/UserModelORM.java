@@ -2,7 +2,7 @@ package Models;
 
 import android.content.Context;
 
-import mx.appco.appbogado.AppLeyesApplication;
+import mx.evp.abogapp.AppLeyesApplication;
 
 import java.util.List;
 

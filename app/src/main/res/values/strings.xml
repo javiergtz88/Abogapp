@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">AppBogado</string>
+    <string name="app_name">Abogapp</string>
 
     <string-array name="title_sections">
         <item>Inicio</item>
@@ -16,7 +16,7 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_example">Example action</string>
     <string name="action_settings">Settings</string>
-    <string name="title_activity_splash_screen">AppBogado</string>
+    <string name="title_activity_splash_screen">AbogApp</string>
     <string name="title_activity_register_view">RegisterView</string>
     <string name="title_activity_presentation_view">PresentationView</string>
     <string name="title_activity_search_subview">SearchSubview</string>

@@ -2,8 +2,8 @@ package Presenters;
 
 import android.os.AsyncTask;
 
-import mx.appco.appbogado.ConektaPayment;
-import mx.appco.appbogado.SomeView;
+import mx.evp.abogapp.ConektaPayment;
+import mx.evp.abogapp.SomeView;
 
 import java.util.HashMap;
 

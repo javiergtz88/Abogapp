@@ -4,7 +4,7 @@ import android.os.AsyncTask;
 import android.text.TextUtils;
 import android.util.Log;
 
-import mx.appco.appbogado.LoginView;
+import mx.evp.abogapp.LoginView;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

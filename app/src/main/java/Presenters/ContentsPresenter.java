@@ -3,9 +3,9 @@ package Presenters;
 import android.os.AsyncTask;
 import android.util.Log;
 
-import mx.appco.appbogado.AppLeyesApplication;
-import mx.appco.appbogado.R;
-import mx.appco.appbogado.SomeView;
+import mx.evp.abogapp.AppLeyesApplication;
+import mx.evp.abogapp.R;
+import mx.evp.abogapp.SomeView;
 
 import java.util.ArrayList;
 import java.util.HashMap;

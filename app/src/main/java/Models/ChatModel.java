@@ -1,8 +1,6 @@
 package Models;
 
-import android.util.Log;
-
-import mx.appco.appbogado.AppLeyesApplication;
+import mx.evp.abogapp.AppLeyesApplication;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

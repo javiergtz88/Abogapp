@@ -2,9 +2,8 @@ package Presenters;
 
 import android.os.AsyncTask;
 import android.text.TextUtils;
-import android.util.Log;
 
-import mx.appco.appbogado.RegisterView;
+import mx.evp.abogapp.RegisterView;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

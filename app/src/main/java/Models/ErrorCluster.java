@@ -1,9 +1,7 @@
 package Models;
 
-import android.util.Log;
-
-import mx.appco.appbogado.AppLeyesApplication;
-import mx.appco.appbogado.R;
+import mx.evp.abogapp.AppLeyesApplication;
+import mx.evp.abogapp.R;
 
 /**
  * Created by saul on 9/6/15.

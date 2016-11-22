@@ -6,13 +6,11 @@ import android.util.Log;
 
 import com.facebook.login.LoginManager;
 
-import mx.appco.appbogado.AppLeyesApplication;
+import mx.evp.abogapp.AppLeyesApplication;
 
 import org.json.JSONObject;
 
 import java.util.HashMap;
-
-import AppLeyes_db.UserORM;
 
 /**
  * Created by roblero on 30/03/15.
