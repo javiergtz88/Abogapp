@@ -19,7 +19,7 @@
   },
   {
     "key":"Cookie",
-    "value":"{{glooEnv}}",
+    "value":"{{glooenv}}",
     "type":"text"
   }
 }
