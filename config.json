@@ -21,4 +21,5 @@
     "key":"Cookie",
     "value":"{{glooEnv}}",
     "type":"text"
+  }
 }
